@@ -20,7 +20,7 @@
 }
 /* banner-part */
 
-/* .banner-part{
+.banner-part{
     background:#0A1931;
     color: white;
    
@@ -47,22 +47,22 @@
 .banner-btn:hover{
     color: black;
     background: white;
-} */
+}
 /* setup-section */
-/* .setup-section{
+.setup-section{
     color: white;
     width: 100%;
     min-height:70vh;
     background:#0A1931;
 background-position: center;
 background-size: cover;
-    background-image: url(../images/bg-curvy-desktop.svg);
+    background-image: url(../../assets/images/bg-curvy-desktop.svg);
 }
-.data-set h2{
+.position-set h2{
     padding-top: 70px;
-} */
+}
 /* <!-- storage -security --> */
-/* .strg-sec{
+.storage-section{
     background:#1b2027;
     color: white;
     height: auto;
@@ -73,10 +73,10 @@ background-size: cover;
     padding-bottom: 30px;
 }
 .data-caption h5{
-    padding-top: 30px;
-} */
+    padding-top: 28px;
+}
 /* <!-- productive --> */
-/* .section3{
+.section3{
     background:#1b2027;
     color: white;
     height: auto;
@@ -100,11 +100,11 @@ background-size: cover;
 }
 .sec-btn img{
     margin-left: 5px;
-}  */
+} 
 /* <!-- testimonial section --> */
-/* .testi-sec{
+.testimonial-sec{
     color: white;
-   height: auto;
+    height: auto;
     background:#1b2027;
     padding-top: 100px;
 }
@@ -125,11 +125,10 @@ background-size: cover;
     height: 60px;
     border-radius: 50%;
     margin: 0 10px;
-} */
+}
 /* login-sec */
-/* .login-sec{
+.login-section{
     background:#1b2027;
-   
     padding-top: 100px;
 }
 .log-dt{
@@ -141,44 +140,41 @@ background-size: cover;
 }
 .log-dt h1{
     color: white;
-    padding-top: 70px;
+    padding-top: 50px;
 }
 .log-dt p{
     color: white;
     padding-top: 10px;
-    text-align: center;
+    text-align:center;
     padding-bottom: 30px;
 }
 .fm-inpt input{
-   width: 50%;
+   width: 100%;
    height: 52px;
-   border-radius: 20px;
+   border-radius: 30px;
    outline:none;
    border: none;
-   margin-left: 80px;
+   padding: 20px;
+   margin: 20px;
 }
 .fm-btn{
     background: cyan;
     color:white;
-    border-radius: 20px;
-    width: 25%;
-    margin-left: 20px;
-    height: 48px;
-    border-radius: 20px;
-  
-    
+    border-radius: 30px;
+    width: 90%;
+    height: 48px; 
     border: none;
+    margin: 20px;
 }
 .fm-btn:hover{
     color: black;
     background: white;
 }
 /* footer */
-/* .footer{
+.footer{
     color: white;
     padding-top: 100px;
-    background:#0A1931;
-    
+    background:#0A1931;  
 }
 .left-pt img{
     float: left;
@@ -195,27 +191,30 @@ background-size: cover;
 .contact-box p{
     float: left;
     margin-right: 8px !important;
-} */ 
+} 
 /* about us */
-/* .about-us ul{
+ .about-us ul{
 list-style: none;
 padding-top: 40px;
 }
 .about-us ul li{
     margin-top: 10px;
-} */
+} 
 /*contact us */
-/* .contact-us ul{
+ .contact-us ul{
     list-style: none;
     padding-top: 40px;
     }
     .contact-us ul li{
         margin-top: 10px;
-    } */
+    } 
     /* social-media */
-/* .social-media i{
+    .social-media{
+        text-align: center;
+    }
+    .social-media i{
     color: white;
     font-size: 20px;
     padding-top: 50px;
     margin-left: 8px;
-}     */
+ } 
